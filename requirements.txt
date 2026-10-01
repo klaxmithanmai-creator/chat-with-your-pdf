@@ -3,3 +3,4 @@ pypdf
 sentence-transformers
 chromadb
 ollama
+google-genai
